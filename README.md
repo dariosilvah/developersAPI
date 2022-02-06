@@ -1,24 +1,34 @@
 # README
+Instalação -> https://rvm.io/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RVM -> diferentes versões
 
-Things you may want to cover:
+	rvm list
 
-* Ruby version
+GEM -> gerencia versões de bibliotecas
 
-* System dependencies
+	gem list 
 
-* Configuration
+#projeto
 
-* Database creation
+	rails new developerAPI
 
-* Database initialization
+#bundle garante dependência
 
-* How to run the test suite
+	bundle
 
-* Services (job queues, cache servers, search engines, etc.)
+#desenvolvimento
 
-* Deployment instructions
+rails s
 
-* ...
+
+#framwork ruby mine
+
+	sudo snap install rubymine --classic
+
+	rubymine
+
+#diretórios
+
+app, config e db
+
